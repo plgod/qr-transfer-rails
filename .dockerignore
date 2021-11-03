@@ -1,0 +1,7 @@
+Dockerfile
+README.md
+.ruby-version
+.bundle/
+vendor/
+node_modules/
+config/master.key
